@@ -1,4 +1,4 @@
-package me.whiteship.functionalinterface;
+package me.whiteship.practice.functionalinterface;
 
 // 함수형 인터페이스
 // 추상 메소드가 딱 하나 존재한다

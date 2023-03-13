@@ -1,4 +1,4 @@
-package me.whiteship.functionalinterface;
+package me.whiteship.practice.functionalinterface;
 
 public class Foo {
     public static void main(String[] args) {

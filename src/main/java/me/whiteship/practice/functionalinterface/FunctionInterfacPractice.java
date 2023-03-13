@@ -1,4 +1,4 @@
-package me.whiteship.functionalinterface;
+package me.whiteship.practice.functionalinterface;
 
 import java.util.function.*;
 
