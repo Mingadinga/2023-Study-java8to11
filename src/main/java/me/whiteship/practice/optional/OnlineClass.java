@@ -30,6 +30,14 @@ public class OnlineClass {
         this.closed = closed;
     }
 
+    public OnlineClass(Integer id, String title, boolean closed, Optional<Progress> progress)  {
+        this.id = id;
+        this.title = title;
+        this.closed = closed;
+        progress.orElseThrow();
+        this.progress = progress.get();
+    }
+
     public Integer getId() {
         return id;
     }
