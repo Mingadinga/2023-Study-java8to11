@@ -17,4 +17,5 @@
 | 2023-03-24 | 백기선 님 Java 8 | Concurrent 프로그래밍          |
 | 2023-03-27 | 백기선 님 Java 8 | Executors                 |
 | 2023-03-28 | 백기선 님 Java 8 | Callable과 Future          |
-| 2023-03-29 | 백기선 님 Java 8 | Completable Future        |
+| 2023-03-29 | 백기선 님 Java 8 | Completable Future1       |
+| 2023-03-30 | 백기선 님 Java 8 | Completable Future2       |
