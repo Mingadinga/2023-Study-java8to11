@@ -19,4 +19,5 @@
 | 2023-03-28 | 백기선 님 Java 8 | Callable과 Future          |
 | 2023-03-29 | 백기선 님 Java 8 | Completable Future1       |
 | 2023-03-30 | 백기선 님 Java 8 | Completable Future2       |
-| 2023-03-30 | 백기선 님 Java 8 | Annotation                |
+| 2023-03-31 | 백기선 님 Java 8 | Annotation                |
+| 2023-04-01 | 백기선 님 Java 8 | ParallelSort, MetaSpace           |
